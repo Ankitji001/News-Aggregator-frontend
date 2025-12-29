@@ -1,3 +1,24 @@
+ News Aggregator (Full Stack – MERN)
+
+🔗 **Live Demo:**  
+https://news-aggregator-frontend-zeta.vercel.app/
+
+### 📌 Description
+A full-stack **News Aggregator Application** that fetches and displays real-time news from external APIs with category-based filtering.
+
+### ✨ Key Features
+- API-driven dynamic news content  
+- Category-wise news filtering  
+- Loading states and error handling  
+- Backend integration using Node.js  
+
+### 🛠 Tech Stack
+- React.js  
+- Node.js, Express.js  
+- REST APIs  
+- Tailwind CSS  
+- Vercel (Frontend), Render (Backend)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
